@@ -1,1 +1,2 @@
-holberton machine learning course
+Machine learning
+================
