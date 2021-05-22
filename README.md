@@ -1,3 +1,3 @@
 Machine learning
 ================
-practicing math skills through hands-on projects.
+building the foundations of Machine learning skills
